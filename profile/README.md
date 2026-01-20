@@ -10,10 +10,9 @@ Our mission is to help organisations maintain high-quality curated documentation
 - For commercial licensing enquiries, contact the copyright holder
 - All contributions must be shared under the same license
 
-## 🍿 Fun Facts
+## 🍿 Fun Fact
 
 - Our team runs on **proper British tea** ☕ (no coffee debates here, though Earl Grey vs. English Breakfast is fair game)
-- We're fans of **domain-driven design** because naming things correctly is half the battle
 
 ## Tech Stack Breakfast Order
 
