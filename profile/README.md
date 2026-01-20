@@ -4,18 +4,7 @@ Copalan is an AI-assisted knowledge platform designed to curate and improve your
 
 Our mission is to help organisations maintain high-quality curated documentation by automatically identifying gaps, monitoring support conversations, generating actionable recommendations and always keeping human contributors in the loop for regular reviews. We believe that good documentation is the foundation of effective teams, and we're building the tools to make maintaining it effortless.
 
-## 🌈 Contribution Guidelines
-
-We welcome contributions from the community! Here's how you can get involved:
-
-### Getting Started
-
-1. **Fork and clone** the repository
-2. **Set up your development environment** following our [CONTRIBUTING.md](docs/guidance/CONTRIBUTING.md)
-3. **Read the architecture docs** in `docs/guidance/` to understand our patterns
-4. **Pick an issue** or propose a new feature
-
-### Important Notes
+## Important Notes
 
 - This project uses a **non-commercial license** - internal business use is permitted, but you cannot use it to build commercial products or services
 - For commercial licensing enquiries, contact the copyright holder
@@ -26,7 +15,7 @@ We welcome contributions from the community! Here's how you can get involved:
 - Our team runs on **proper British tea** ☕ (no coffee debates here, though Earl Grey vs. English Breakfast is fair game)
 - We're fans of **domain-driven design** because naming things correctly is half the battle
 
-### Tech Stack Breakfast Order
+## Tech Stack Breakfast Order
 
 If our tech stack were breakfast items:
 - **Go**: The reliable full English - solid, dependable, gets the job done
