@@ -18,8 +18,6 @@ If our tech stack were breakfast items:
 - **Go**: The reliable full English - solid, dependable, gets the job done
 - **React**: Fresh avocado toast - modern, popular, sometimes controversial
 - **PostgreSQL**: Classic porridge - been around forever, never lets you down
-- **Anthropic Claude**: The AI-powered smoothie - sophisticated and surprisingly intelligent
-- **mise**: The perfectly timed coffee delivery - manages everything just when you need it
 
 ---
 
